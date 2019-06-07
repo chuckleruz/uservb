@@ -1,0 +1,12 @@
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\bin\Debug\gonzalo_levien_ruiz.exe.config
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\bin\Debug\gonzalo_levien_ruiz.exe
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\bin\Debug\gonzalo_levien_ruiz.pdb
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\obj\Debug\gonzalo_levien_ruiz.csprojAssemblyReference.cache
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\obj\Debug\gonzalo_levien_ruiz.Form1.resources
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\obj\Debug\gonzalo_levien_ruiz.Properties.Resources.resources
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\obj\Debug\gonzalo_levien_ruiz.csproj.GenerateResource.cache
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\obj\Debug\gonzalo_levien_ruiz.csproj.CoreCompileInputs.cache
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\obj\Debug\gonzalo_levien_ruiz.exe
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\obj\Debug\gonzalo_levien_ruiz.pdb
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\obj\Debug\gonzalo_levien_ruiz.Admin.resources
+C:\projects\VB-prueba\gonzalo_levien_ruiz\gonzalo_levien_ruiz\obj\Debug\gonzalo_levien_ruiz.Usuario.resources
